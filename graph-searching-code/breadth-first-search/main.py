@@ -1,5 +1,7 @@
 #! /usr/bin/env python
 
+#import libraries
+
 from time import time
 
 tiempo_inicial = time()
